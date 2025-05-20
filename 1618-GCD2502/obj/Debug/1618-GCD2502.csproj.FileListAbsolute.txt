@@ -1,0 +1,10 @@
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\bin\Debug\1618-GCD2502.exe.config
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\bin\Debug\1618-GCD2502.exe
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\bin\Debug\1618-GCD2502.pdb
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\1618-GCD2502.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\_1618_GCD2502.MainFrame.resources
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\_1618_GCD2502.Properties.Resources.resources
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\1618-GCD2502.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\1618-GCD2502.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\1618-GCD2502.exe
+E:\Workspace\VSRepos\1618-GCD2502\1618-GCD2502\obj\Debug\1618-GCD2502.pdb
