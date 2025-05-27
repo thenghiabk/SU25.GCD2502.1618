@@ -1,0 +1,10 @@
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\bin\Debug\L25_TextBox.exe.config
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\bin\Debug\L25_TextBox.exe
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\bin\Debug\L25_TextBox.pdb
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\w07_TextBox.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\L25_TextBox.mainFrame.resources
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\L25_TextBox.Properties.Resources.resources
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\w07_TextBox.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\w07_TextBox.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\L25_TextBox.exe
+E:\Workspace\VSRepos\COMP1551-AppDev-ConsoleApp\w07_TextBox\obj\Debug\L25_TextBox.pdb

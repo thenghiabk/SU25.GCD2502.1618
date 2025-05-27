@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\bin\Debug\L25_ComboBox.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\bin\Debug\L25_ComboBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\bin\Debug\L25_ComboBox.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_ComboBox\obj\Debug\L25_ComboBox.pdb

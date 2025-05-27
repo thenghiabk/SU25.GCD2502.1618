@@ -1,0 +1,10 @@
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\bin\Debug\L25_DataGridView.exe.config
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\bin\Debug\L25_DataGridView.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\bin\Debug\L25_DataGridView.pdb
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\L25_DataGridView.mainFrame.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\L25_DataGridView.Properties.Resources.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\L25_DataGridView.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\DataGridView\obj\Debug\L25_DataGridView.pdb

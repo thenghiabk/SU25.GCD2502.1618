@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Workspace\\VSRepos\\1618-GCD2502\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|e:\\workspace\\vsrepos\\1618-gcd2502\\1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|solutionrelative:1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|e:\\workspace\\vsrepos\\1618-gcd2502\\1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|solutionrelative:1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|solutionrelative:1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainFrame.cs",
               "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-GCD2502\\MainFrame.cs",
               "RelativeDocumentMoniker": "1618-GCD2502\\MainFrame.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainFrame.cs [Design]",
               "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-GCD2502\\MainFrame.cs",
               "RelativeDocumentMoniker": "1618-GCD2502\\MainFrame.cs",

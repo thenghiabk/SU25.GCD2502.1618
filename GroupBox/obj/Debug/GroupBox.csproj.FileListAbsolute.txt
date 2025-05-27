@@ -1,0 +1,10 @@
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\bin\Debug\L25_GroupBox.exe.config
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\bin\Debug\L25_GroupBox.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\bin\Debug\L25_GroupBox.pdb
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\L25_GroupBox.mainFrame.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\L25_GroupBox.Properties.Resources.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\L25_GroupBox.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\GroupBox\obj\Debug\L25_GroupBox.pdb

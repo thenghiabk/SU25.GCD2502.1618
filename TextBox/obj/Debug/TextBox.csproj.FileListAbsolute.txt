@@ -1,0 +1,10 @@
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\bin\Debug\L25_TextBox.exe.config
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\bin\Debug\L25_TextBox.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\bin\Debug\L25_TextBox.pdb
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\TextBox.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\L25_TextBox.mainFrame.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\L25_TextBox.Properties.Resources.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\TextBox.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\TextBox.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\L25_TextBox.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\TextBox\obj\Debug\L25_TextBox.pdb

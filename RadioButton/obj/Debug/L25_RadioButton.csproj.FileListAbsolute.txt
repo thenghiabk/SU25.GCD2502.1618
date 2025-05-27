@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\bin\Debug\L25_RadioButton.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\bin\Debug\L25_RadioButton.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\bin\Debug\L25_RadioButton.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_RadioButton\obj\Debug\L25_RadioButton.pdb

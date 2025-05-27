@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\bin\Debug\L25_GroupBox.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\bin\Debug\L25_GroupBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\bin\Debug\L25_GroupBox.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_GroupBox\obj\Debug\L25_GroupBox.pdb

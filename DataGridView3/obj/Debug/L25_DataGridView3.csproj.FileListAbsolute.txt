@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\bin\Debug\L25_DataGridView3.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\bin\Debug\L25_DataGridView3.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\bin\Debug\L25_DataGridView3.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView3\obj\Debug\L25_DataGridView3.pdb

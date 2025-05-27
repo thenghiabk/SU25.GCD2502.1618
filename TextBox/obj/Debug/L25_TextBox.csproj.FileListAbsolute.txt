@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\bin\Debug\L25_TextBox.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\bin\Debug\L25_TextBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\bin\Debug\L25_TextBox.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_TextBox\obj\Debug\L25_TextBox.pdb

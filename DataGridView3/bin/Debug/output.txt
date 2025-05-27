@@ -1,0 +1,4 @@
+1	John	32	Professor
+2	Nancy Doan	18	Student
+3	David Duong	20	Staff
+4	David Pham	16	Staff

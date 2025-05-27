@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\bin\Debug\L25_DataGridView2.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\bin\Debug\L25_DataGridView2.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\bin\Debug\L25_DataGridView2.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_DataGridView2\obj\Debug\L25_DataGridView2.pdb

@@ -1,0 +1,10 @@
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\bin\Debug\L25_ComboBox.exe.config
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\bin\Debug\L25_ComboBox.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\bin\Debug\L25_ComboBox.pdb
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\L25_ComboBox.mainFrame.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\L25_ComboBox.Properties.Resources.resources
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\L25_ComboBox.exe
+E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\ComboBox\obj\Debug\L25_ComboBox.pdb

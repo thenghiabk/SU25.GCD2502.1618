@@ -1,0 +1,10 @@
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.csproj.AssemblyReference.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.mainFrame.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.Properties.Resources.resources
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.csproj.GenerateResource.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\bin\Debug\L25_CheckBox.exe.config
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\bin\Debug\L25_CheckBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\bin\Debug\L25_CheckBox.pdb
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.exe
+C:\Users\NGHIA NGUYEN\source\repos\1618-Programming\L25_CheckBox\obj\Debug\L25_CheckBox.pdb
