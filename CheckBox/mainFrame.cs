@@ -37,9 +37,34 @@ namespace L25_CheckBox
 
         }
 
-        private void cbAgree_CheckedChanged( object sender, EventArgs e )
+        private void cbAgree_CheckedChanged(object sender, EventArgs e)
         {
-            btnSignUp.Enabled = cbAgree.Checked;
+            if (cbAgree.Checked == true)
+            {
+                btnSignUp.Enabled = true;
+            }
+            else
+            {
+                btnSignUp.Enabled = false;
+            }
+        }
+        private void btnSignUp_Click(object sender, EventArgs e)
+        {
+            String username = txtUsername.Text;
+            String password = txtPassword.Text;
+
+            String gender = "";
+
+            if (rdMale.Checked == true)
+            {
+                gender = "Male";
+            }
+            else if (rdFemale.Checked == true)
+            {
+                gender = "Female";
+            }
+
+            MessageBox.Show($"You've registered with username: {username}, password: {password}, gender: {gender}");
         }
     }
 }

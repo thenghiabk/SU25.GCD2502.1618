@@ -8,3 +8,13 @@ E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\CheckBox\obj\Debug\CheckBox.csproj
 E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
 E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\CheckBox\obj\Debug\L25_CheckBox.exe
 E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\CheckBox\obj\Debug\L25_CheckBox.pdb
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\bin\Debug\L25_CheckBox.exe.config
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\bin\Debug\L25_CheckBox.exe
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\bin\Debug\L25_CheckBox.pdb
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\CheckBox.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\L25_CheckBox.mainFrame.resources
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\L25_CheckBox.Properties.Resources.resources
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\L25_CheckBox.exe
+E:\Workspace\VSRepos\1618-GCD2502\CheckBox\obj\Debug\L25_CheckBox.pdb

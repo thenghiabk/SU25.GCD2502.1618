@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\Workspace\\VSRepos\\1618-GCD2502\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9EAF0810-803C-4BCC-9AF9-AD2B3D6E9224}|DataGridView3\\DataGridView3.csproj|e:\\workspace\\vsrepos\\1618-gcd2502\\datagridview3\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EAF0810-803C-4BCC-9AF9-AD2B3D6E9224}|DataGridView3\\DataGridView3.csproj|solutionrelative:datagridview3\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C30A3F0-A869-4029-9E4A-853B15E796DE}|DataGridView\\DataGridView.csproj|e:\\workspace\\vsrepos\\1618-gcd2502\\datagridview\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C30A3F0-A869-4029-9E4A-853B15E796DE}|DataGridView\\DataGridView.csproj|solutionrelative:datagridview\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|e:\\workspace\\vsrepos\\1618-gcd2502\\1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|solutionrelative:1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A99A787-8DC4-44A1-8178-5FE4F596FB32}|1618-GCD2502\\1618-GCD2502.csproj|solutionrelative:1618-gcd2502\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C23A68D-1336-40ED-B7B1-DBD935DC5F02}|ComboBox\\ComboBox.csproj|e:\\workspace\\vsrepos\\1618-gcd2502\\combobox\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C23A68D-1336-40ED-B7B1-DBD935DC5F02}|ComboBox\\ComboBox.csproj|solutionrelative:combobox\\mainframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 220,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,35 +38,54 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainFrame.cs",
-              "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-GCD2502\\MainFrame.cs",
-              "RelativeDocumentMoniker": "1618-GCD2502\\MainFrame.cs",
-              "ToolTip": "E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-GCD2502\\MainFrame.cs",
-              "RelativeToolTip": "1618-GCD2502\\MainFrame.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBkAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "mainFrame.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\DataGridView3\\mainFrame.cs",
+              "RelativeDocumentMoniker": "DataGridView3\\mainFrame.cs",
+              "ToolTip": "E:\\Workspace\\VSRepos\\1618-GCD2502\\DataGridView3\\mainFrame.cs [Design]",
+              "RelativeToolTip": "DataGridView3\\mainFrame.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T08:31:24.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T09:07:16.4Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "mainFrame.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\DataGridView\\mainFrame.cs",
+              "RelativeDocumentMoniker": "DataGridView\\mainFrame.cs",
+              "ToolTip": "E:\\Workspace\\VSRepos\\1618-GCD2502\\DataGridView\\mainFrame.cs [Design]",
+              "RelativeToolTip": "DataGridView\\mainFrame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:06:50.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainFrame.cs [Design]",
               "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-GCD2502\\MainFrame.cs",
               "RelativeDocumentMoniker": "1618-GCD2502\\MainFrame.cs",
               "ToolTip": "E:\\Workspace\\VSRepos\\1618-GCD2502\\1618-GCD2502\\MainFrame.cs [Design]",
               "RelativeToolTip": "1618-GCD2502\\MainFrame.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T08:27:23.199Z",
+              "WhenOpened": "2025-05-27T09:06:28.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainFrame.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\VSRepos\\1618-GCD2502\\ComboBox\\mainFrame.cs",
+              "RelativeDocumentMoniker": "ComboBox\\mainFrame.cs",
+              "ToolTip": "E:\\Workspace\\VSRepos\\1618-GCD2502\\ComboBox\\mainFrame.cs [Design]",
+              "RelativeToolTip": "ComboBox\\mainFrame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:05:49.283Z",
               "EditorCaption": " [Design]"
             }
           ]

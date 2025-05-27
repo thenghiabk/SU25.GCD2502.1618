@@ -37,7 +37,7 @@
             this.btnLogin = new System.Windows.Forms.Button();
             this.lblGender = new System.Windows.Forms.Label();
             this.rdMale = new System.Windows.Forms.RadioButton();
-            this.rbFemale = new System.Windows.Forms.RadioButton();
+            this.rdFemale = new System.Windows.Forms.RadioButton();
             this.cbAgree = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
@@ -93,6 +93,7 @@
             this.btnSignUp.TabIndex = 6;
             this.btnSignUp.Text = "Sign Up";
             this.btnSignUp.UseVisualStyleBackColor = true;
+            this.btnSignUp.Click += new System.EventHandler(this.btnSignUp_Click);
             // 
             // btnLogin
             // 
@@ -125,16 +126,16 @@
             this.rdMale.Text = "Male";
             this.rdMale.UseVisualStyleBackColor = true;
             // 
-            // rbFemale
+            // rdFemale
             // 
-            this.rbFemale.AutoSize = true;
-            this.rbFemale.Location = new System.Drawing.Point(200, 85);
-            this.rbFemale.Name = "rbFemale";
-            this.rbFemale.Size = new System.Drawing.Size(59, 17);
-            this.rbFemale.TabIndex = 10;
-            this.rbFemale.TabStop = true;
-            this.rbFemale.Text = "Female";
-            this.rbFemale.UseVisualStyleBackColor = true;
+            this.rdFemale.AutoSize = true;
+            this.rdFemale.Location = new System.Drawing.Point(200, 86);
+            this.rdFemale.Name = "rdFemale";
+            this.rdFemale.Size = new System.Drawing.Size(59, 17);
+            this.rdFemale.TabIndex = 10;
+            this.rdFemale.TabStop = true;
+            this.rdFemale.Text = "Female";
+            this.rdFemale.UseVisualStyleBackColor = true;
             // 
             // cbAgree
             // 
@@ -153,7 +154,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(329, 183);
             this.Controls.Add(this.cbAgree);
-            this.Controls.Add(this.rbFemale);
+            this.Controls.Add(this.rdFemale);
             this.Controls.Add(this.rdMale);
             this.Controls.Add(this.lblGender);
             this.Controls.Add(this.btnLogin);
@@ -180,7 +181,7 @@
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.Label lblGender;
         private System.Windows.Forms.RadioButton rdMale;
-        private System.Windows.Forms.RadioButton rbFemale;
+        private System.Windows.Forms.RadioButton rdFemale;
         private System.Windows.Forms.CheckBox cbAgree;
     }
 }

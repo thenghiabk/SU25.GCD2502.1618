@@ -36,5 +36,25 @@ namespace L25_RadioButton
 
 
         }
+
+        private void btnSignUp_Click(object sender, EventArgs e)
+        {
+            String username = txtUsername.Text;
+            String password = txtPassword.Text;
+
+            String gender = "";
+
+            if (rdMale.Checked == true)
+            {
+                gender = "Male";
+            }
+            else if (rdFemale.Checked == true)
+            {
+                gender = "Female";
+            }
+
+            MessageBox.Show($"You've registered with username: {username}, password: {password}, gender: {gender}");
+
+        }
     }
 }

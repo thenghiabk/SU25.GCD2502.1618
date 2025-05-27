@@ -8,3 +8,13 @@ E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\RadioButton\obj\Debug\RadioButton.
 E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
 E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\RadioButton\obj\Debug\L25_RadioButton.exe
 E:\Workspace\VSRepos\COMP1551-MainRepo\Week07\RadioButton\obj\Debug\L25_RadioButton.pdb
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\bin\Debug\L25_RadioButton.exe.config
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\bin\Debug\L25_RadioButton.exe
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\bin\Debug\L25_RadioButton.pdb
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\RadioButton.csproj.AssemblyReference.cache
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\L25_RadioButton.mainFrame.resources
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\L25_RadioButton.Properties.Resources.resources
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.cache
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\RadioButton.csproj.CoreCompileInputs.cache
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\L25_RadioButton.exe
+E:\Workspace\VSRepos\1618-GCD2502\RadioButton\obj\Debug\L25_RadioButton.pdb
